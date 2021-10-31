@@ -1,1 +1,1 @@
-alert("if your seeing this its works!")
+alert("hi")
